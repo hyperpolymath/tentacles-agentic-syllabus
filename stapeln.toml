@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+
+[project]
+name = "7-tentacles"
+description = "Seven Tentacles"
+
+[container]
+base = "cgr.dev/chainguard/wolfi-base:latest"
+
+[build]
+builder = "deno"

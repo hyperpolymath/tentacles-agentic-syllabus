@@ -1,0 +1,37 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= 7 Tentacles -- EXPLAINME
+:toc: preamble
+
+== "Teaching Compiler Architecture to Ages 8-18 Through Progressive Reveal"
+
+[quote, README.adoc]
+____
+Seven Tentacles is a radically innovative 10-year learning framework that teaches
+university and graduate-level compiler architecture concepts to children aged 8-18
+without them realizing it.
+____
+
+The curriculum uses 7 cephalopod mascots (one per compiler component) and 4 age-graded
+language dialects. Concepts are introduced as games then explicitly revealed as CS once
+the learner is mature enough. See link:VISION.adoc[] and link:docs/PEDAGOGY.adoc[] for
+the pedagogical rationale.
+
+**Caveat:** Only the Cuttle tier (ages 8-12) has lesson content so far, and only the
+Me Language has an implementation. The remaining tiers and languages are designed but
+not yet built.
+
+=== Evidence
+
+[cols="2,3"]
+|===
+| Path | Proves
+
+| `curriculum/cuttle/`
+| Lesson content exists for the first age tier
+
+| `agents/*.res`
+| All 7 ReScript agent modules are defined (Red through Violet)
+
+| `languages/me-language/`
+| The first language dialect has an implementation
+|===
