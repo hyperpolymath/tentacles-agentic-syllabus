@@ -1,10 +1,35 @@
-= Seven Tentacles
+= Tentacles Agentic Syllabus
 :toc: left
 :toclevels: 3
 :icons: font
 :source-highlighter: rouge
 
-*Teaching Compiler Architecture to Ages 8-18 Through Progressive Reveal & Playful Mascots*
+*An aspect-agent-driven curriculum framework that projects personalised learning experiences
+over My-Lang — for anyone from an 8-year-old to a senior professor.*
+
+[IMPORTANT]
+====
+**This repo was previously named `7-tentacles` and was framed as "Seven Tentacles —
+Teaching Compiler Architecture to Ages 8-18".** It has since evolved into a broader,
+future-proofed agentic syllabus framework with a wider audience and a richer design. The
+historical framing below is preserved for context but parts of it are now out of date —
+in particular:
+
+* The name no longer hard-codes the number 7 (future-proof against 6 or 8).
+* The target audience is not just 8–18; it is *anyone who wants to learn*, from children
+  to senior academics.
+* "Me" is **not** a fourth dialect — it is an *on-the-fly agent-generated projection* over
+  the three real nested dialects (Solo ⊂ Duet ⊂ Ensemble). See link:me/README.adoc[me/README.adoc]
+  for the real Me design.
+* Real My-Lang dialects are **three, nested**: `Solo ⊂ Duet ⊂ Ensemble`. See
+  link:me/README.adoc[me/README.adoc] for the containment model and how Me projects over it.
+* The core pedagogical payload is **constraint-based teaching** (e.g. *"make a loop with
+  `for`/`while` banned"*), which is a first-class A2ML task-spec field. See
+  link:me/README.adoc[me/README.adoc].
+
+A full rewrite of this README to reflect the evolved architecture is a follow-up task.
+The content below is retained until then.
+====
 
 image::assets/mascots/octopus.svg[Seven Tentacles Logo,200,align="center"]
 
