@@ -4,6 +4,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Check all required toolchain dependencies and report health
+import? "contractile.just"
+
 doctor:
     #!/usr/bin/env bash
     echo "═══════════════════════════════════════════════════"
