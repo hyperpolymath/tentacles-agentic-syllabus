@@ -1,0 +1,25 @@
+= tentacles-agentic-syllabus
+:toc: macro
+:status: reserved / scaffolding
+
+Nextgen language exploration — the *7-tentacles* concept.
+
+[NOTE]
+====
+This repository is *reserved and scaffolding-stage*. It currently holds
+project metadata only; design and implementation are not yet committed.
+It is referenced by sibling estate repos and is intentionally retained
+(not archived) pending population.
+====
+
+== Status
+
+* Stage: reserved placeholder (no source yet)
+* Concept: 7-tentacles nextgen language
+* Related: see the estate nextgen-language / evangelism repos
+
+== Next
+
+Populate with the design narrative (`docs/`) and the language spec before
+any implementation work. Until then this README marks the repo as a
+deliberate reservation rather than an abandoned empty repo.
